@@ -6,7 +6,7 @@ const icon = document.getElementById('icon-mode');
 const container = document.querySelector('.main-weather-container');
 
 
-const apiKey = 'fbd174d2296499652af4d9cc691f86a8';
+const apiKey = 'yourkeyhere';
 
 async function getWeatherData(city) {
     try {
